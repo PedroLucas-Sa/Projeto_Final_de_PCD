@@ -1,4 +1,6 @@
 # Projeto_Final_de_PCD
+## Estudante: Pedro Lucas Miranda da Silva de Sá
+## Instuição: ILUM Escola de Ciências
 ## Calculadora em Python
 O projeto consiste na criação de uma calcudora com diversas funções, utilizando como ferramenta funções e operadores nativos do python.
 
