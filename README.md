@@ -1,6 +1,6 @@
 <!-- @format -->
 
-<img width="2535" height="380" alt="Cabecalho" src="https://github.com/user-attachments/assets/926c2a35-5db3-444e-a075-b5b2234d125c" />
+<img width="100%" height="auto" alt="Cabecalho" src="https://github.com/user-attachments/assets/926c2a35-5db3-444e-a075-b5b2234d125c" />
 
 <h1 align="center">
 Projeto Final - Calculadora em Python 
